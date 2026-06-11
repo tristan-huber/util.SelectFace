@@ -11,7 +11,8 @@
     },
     {
       "name": "index",
-      "ioValue": 10
+      "ioValue": 0,
+      "currentEquation": "0"
     }
   ],
   "topLevel": true,
@@ -55,7 +56,7 @@
         },
         {
           "name": "faceIndex",
-          "ioValue": 10
+          "ioValue": 0
         }
       ],
       "interpreterVersion": 1,
