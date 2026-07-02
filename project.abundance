@@ -11,8 +11,7 @@
     },
     {
       "name": "index",
-      "ioValue": 0,
-      "currentEquation": "0"
+      "ioValue": 0
     }
   ],
   "topLevel": true,
@@ -31,16 +30,16 @@
     },
     {
       "atomType": "Input",
-      "x": 0.025384615384615384,
-      "y": 0.3041666666666667,
+      "x": 0.0231,
+      "y": 0.14,
       "uniqueID": "id-4",
       "name": "shape",
       "type": "geometry"
     },
     {
       "atomType": "Input",
-      "x": 0.025384615384615384,
-      "y": 0.396474358974359,
+      "x": 0.0231,
+      "y": 0.22400000000000003,
       "uniqueID": "id-7",
       "name": "index"
     },
